@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAMES HERE"
+title: "Sports Chokes"
+author: "Elijah Flomen, Blake Hartung"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
