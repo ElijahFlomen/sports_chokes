@@ -1,5 +1,13 @@
 This is a template for the EDAV final project. It is based on the template created with *File, New Project..., New Directory, Book Project using bookdown* in RStudio. 
 
+## Team Expectations (Nov. 18 2021)
+Work plan:
+
+Blake has done a lot of the work of cleaning the current dataset we are working with. Our main task thus far has been to align the win probability data with the play-by-play description data. Given the gaps in our dataset, this task has been somewhat difficult and time consuming. 
+
+Elijah will continue on Blakes work by building a classification system, which looks at the strings of the play-by-play data and assigning each row to a specific factor variable, which will guide us in our main research question. Elijah will also filter our larger dataset of games to select only the ones that end in a ‘choke’, in which one team that had a high chance of winning ended up losing the game.  
+
+Once we have the data in this correct form, we will work together on creative solutions to visualize our findings and conduct further analysis. 
 
 ## ABSOLUTE ESSENTIALS
 
