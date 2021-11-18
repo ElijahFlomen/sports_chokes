@@ -57,7 +57,7 @@ missing_vis <- function(df, percent = TRUE) {
                   height = tile_height)) +
     scale_x_discrete('Pattern', limits = factor(max(df2$x2):min(df2$x2))) +
     scale_y_discrete(guide = guide_axis(n.dodge = 3)) +
-    theme(legend.position = 'none') +
+    theme(legend.position = 'none', axis.text.x = element_text(size=5.5)) +
     ylab("Variable") +
     annotate("text",
              x = abs(complete_rownum - (max(df2$x) + 1)),
